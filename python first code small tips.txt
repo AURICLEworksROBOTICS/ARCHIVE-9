@@ -1,0 +1,7 @@
+
+
+     print ('hellow world)
+     yes this was our first cde on python
+      python is a difficult language but 
+      learn python slowly dont hurry in this
+      also start with small things then go big ! 
